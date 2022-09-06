@@ -5,7 +5,9 @@ Content under h2
 ### This is a h3 header
 Content under h3
 #### This is a h4 header
-Content under h4
+- [x] Turn On Github Pages
+- [x] Outline My Portfolio
+- [x] Introduce myself to the world
 ##### This is a h5 header
 ```
 $ git init
